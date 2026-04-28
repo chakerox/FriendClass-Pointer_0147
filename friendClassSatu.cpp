@@ -31,3 +31,6 @@ void orang :: setNama(string pnama){
 void siswa :: setId(int pId){
     id = pId;
 }
+
+int main(){
+ 
