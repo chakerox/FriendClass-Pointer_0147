@@ -27,3 +27,7 @@ void siswa :: displayAll(orang &a){
 void orang :: setNama(string pnama){
     nama = pnama;
 }
+
+void siswa :: setId(int pId){
+    id = pId;
+}
